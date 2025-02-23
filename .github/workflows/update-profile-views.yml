@@ -1,0 +1,25 @@
+name: Update Profile Views
+on:
+  schedule:
+    - cron: '0 * * * *' # Запускать каждый час
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Fetch profile views
+        run: |
+          views=$(curl -s https://komarev.com/ghpvc/?username=cons0leweb | grep -oP 'Profile views: \K\d+')
+          echo "{\"views\": $views}" > profile-views.json
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add profile-views.json
+          git commit -m "Update profile views"
+          git push
