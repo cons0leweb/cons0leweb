@@ -56,7 +56,7 @@
 ## 📫 Как со мной связаться
 
 <p align="center">
-  <a href="https://t.me/cons0leweb" target="_blank">
+  <a href="https://t.me/one_sumbol_link" target="_blank">
     <img alt="Telegram" src="https://img.shields.io/badge/-Telegram-%2326A5E4?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
  
