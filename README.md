@@ -34,6 +34,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cons0leweb&show_icons=true&theme=radical" width="45%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cons0leweb&layout=compact&theme=radical" width="45%">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=cons0leweb&theme=cobalt&hide_border=true&mode=weekly" alt="GitHub Streak" />
 </div>
 
 ## 💬 Контакты
