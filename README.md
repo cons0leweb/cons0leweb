@@ -37,9 +37,6 @@
 
 ## 💬 Контакты
 
-[![Telegram](https://img.shields.io/badge/Telegram-@cons0leweb-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/imclaude_ai)
+[![Telegram](https://img.shields.io/badge/Telegram-@imclaude_ai-26A5E4?style=for-the-badge&logo=telegram)](https://t.me/imclaude_ai)
 [![GitHub](https://img.shields.io/badge/GitHub-cons0leweb-181717?style=for-the-badge&logo=github)](https://github.com/cons0leweb)
 
----
-
-*"Бинарный патч не баг, а фича"* - cons0leweb
