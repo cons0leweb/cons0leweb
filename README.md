@@ -25,10 +25,10 @@
 | Проект | Описание | Технологии |
 |--------|----------|-------------|
 | [NyaHack](https://github.com/cons0leweb/HyaHack) | Анализатор памяти Linux с GUI | C++17, ImGui, CMake |
-| [AlcoHole](https://github.com/cons0leweb/AlcoHole) | Простейший плагин на напитки | [Java | Paper API] |
+| [AlcoHole](https://github.com/cons0leweb/AlcoHole) | Простейший плагин на напитки | Java,Paper API |
 | [cst](https://github.com/cons0leweb/cst) | Упрощение tellraw, actionbar,title | Java | Paper API |
-| [MeowCube](https://meowcube.space?ref=github&cons0leweb) | Попытка повторить claude.ai, я считаю что попытка вполне успешная | TS | React | Radix UI | Lucide | Express | Supabase |
-| [MeowCLI](https://github.com/cons0leweb/Meow-CLI) | Попытка повторить claude code, я считаю что попытка вполне успешная,несмотря на некоторые баги. | JS | Chalk |
+| [MeowCube](https://meowcube.space?ref=github&cons0leweb) | Попытка повторить claude.ai, я считаю что попытка вполне успешная | TS, React, Radix UI, Lucide, Express, Supabase |
+| [MeowCLI](https://github.com/cons0leweb/Meow-CLI) | Попытка повторить claude code, я считаю что попытка вполне успешная,несмотря на некоторые баги. | JS, Chalk |
 
 ## 📊 Статистика
 
