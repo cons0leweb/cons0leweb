@@ -2,7 +2,6 @@
 
 ![GitHub followers](https://img.shields.io/github/followers/cons0leweb?style=social) 
 ![GitHub stars](https://img.shields.io/github/stars/cons0leweb?style=social)
-![Wine](https://img.shields.io/badge/Wine-Expert-red?style=flat-square)
 ![Linux](https://img.shields.io/badge/Linux-User-blue?style=flat-square)
 
 ## 🛠️ Я владею
