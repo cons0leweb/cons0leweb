@@ -16,6 +16,7 @@
 
 | | Проект | Что внутри |
 |---|---|---|
+| `Go · TypeScript` | **[NyaGram Desktop](https://github.com/NyaGram/NyaGramDesktop)** | Независимый desktop-клиент Telegram с TDLib, темами и интерфейсом для больших экранов. |
 | `Go` | **[SoundCloud CLI](https://github.com/cons0leweb/soundcloud-cli)** | Полноэкранный TUI-клиент: поиск, миксы, очередь и воспроизведение прямо в терминале. |
 | `C · GTK4` | **[Dumpio](https://github.com/cons0leweb/dumpio)** | Менеджер crash-отчётов Linux с мониторингом `systemd-coredump`, историей в SQLite и экспортом отчётов. |
 | `JavaScript` | **[Meow CLI](https://github.com/cons0leweb/Meow-CLI)** | Терминальный AI-агент с инструментами, памятью, делегированием задач и контролем разрешений. |
