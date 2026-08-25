@@ -1,43 +1,145 @@
 <div align="center">
 
-# cons0leweb
+<img src="./assets/header.svg" width="100%" alt="cons0leweb" />
 
-**Разрабатываю CLI, Linux-приложения и инструменты для разработчиков.**
+<br>
 
-[Проекты](#проекты) · [Стек](#стек) · [Telegram](https://t.me/imclaude_ai)
+`linux enjoyer` · `terminal dweller` · `building weird useful shit`
+
+[me.kikoai.dev](https://me.kikoai.dev) ·
+[telegram](https://t.me/imclaude_ai) ·
+[repositories](https://github.com/cons0leweb?tab=repositories)
 
 </div>
 
-Мне нравится превращать сложные системные задачи в понятные инструменты: от терминальных клиентов и AI-агентов до диагностики Linux и desktop-приложений.
+```text
+cons0leweb@github:~$ whoami
 
-Сейчас больше всего работаю с Go, C/C++, JavaScript и Linux. Ценю быстрые интерфейсы, прозрачную архитектуру и софт, который можно запустить локально.
+> developer
+> building CLI, desktop & system tools
+> occasionally giving AI way too much access to my computer
+````
 
-## Проекты
+## ./projects
 
-| | Проект | Что внутри |
-|---|---|---|
-| `Go · TypeScript` | **[NyaGram Desktop](https://github.com/NyaGram/NyaGramDesktop)** | Независимый desktop-клиент Telegram с TDLib, темами и интерфейсом для больших экранов. |
-| `Go` | **[SoundCloud CLI](https://github.com/cons0leweb/soundcloud-cli)** | Полноэкранный TUI-клиент: поиск, миксы, очередь и воспроизведение прямо в терминале. |
-| `C · GTK4` | **[Dumpio](https://github.com/cons0leweb/dumpio)** | Менеджер crash-отчётов Linux с мониторингом `systemd-coredump`, историей в SQLite и экспортом отчётов. |
-| `JavaScript` | **[Meow CLI](https://github.com/cons0leweb/Meow-CLI)** | Терминальный AI-агент с инструментами, памятью, делегированием задач и контролем разрешений. |
-| `C++17` | **[NyaHack](https://github.com/cons0leweb/NyaHack)** | Desktop-утилита для локального анализа памяти Linux с интерфейсом Dear ImGui. |
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## Стек
+### [NyaGram](https://github.com/NyaGram/NyaGramDesktop)
+
+Independent Telegram desktop client.
+
+`Go` `TypeScript` `TDLib`
+
+→ themes
+→ desktop-first UI
+→ no wasted screen space
+
+</td>
+<td width="50%" valign="top">
+
+### [SoundCloud CLI](https://github.com/cons0leweb/soundcloud-cli)
+
+SoundCloud without leaving your terminal.
+
+`Go` `TUI`
+
+→ search & mixes
+→ playback
+→ queue management
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### [Dumpio](https://github.com/cons0leweb/dumpio)
+
+Linux crashes, but organized.
+
+`C` `GTK4` `SQLite`
+
+→ systemd-coredump
+→ crash history
+→ report export
+
+</td>
+<td width="50%" valign="top">
+
+### [Meow CLI](https://github.com/cons0leweb/Meow-CLI)
+
+AI agent living in your terminal.
+
+`JavaScript` `Agents`
+
+→ tools
+→ memory
+→ delegation
+→ permission control
+
+</td>
+</tr>
+</table>
+
+## ./stack
 
 ```text
-Languages   Go · C · C++ · JavaScript · TypeScript · Python · Java
-Desktop     GTK4 · Libadwaita · Dear ImGui · OpenGL
-Backend     Node.js · Express · SQLite · systemd
-Tooling     Git · CMake · Make · GDB · Valgrind
-Platform    Linux
+┌─ languages
+│  Go        ████████████
+│  C/C++     ██████████░░
+│  JS/TS     ███████████░
+│
+├─ desktop
+│  GTK4 · Libadwaita · Dear ImGui · OpenGL
+│
+├─ systems
+│  Linux · systemd · SQLite
+│
+└─ tools
+   Git · CMake · GDB · Valgrind
 ```
 
-## Ещё
+## ./currently
 
-- **[MeowCube](https://meowcube.space/?ref=github)** — веб-интерфейс для работы с AI-моделями.
-- **[AlcoHole](https://github.com/cons0leweb/AlcoHole)** — конфигурируемый Paper/Spigot-плагин для Minecraft.
-- Все публичные репозитории — во вкладке **[Repositories](https://github.com/cons0leweb?tab=repositories)**.
+```yaml
+os:       Linux
+editor:   "whatever gets the job done"
+building:
+  - developer tools
+  - desktop software
+  - AI agents
+interested_in:
+  - systems
+  - computer use
+  - weird interfaces
+status:   probably debugging something
+```
 
-## Связь
+<details>
+<summary><b>cat ./more-projects.txt</b></summary>
+<br>
 
-[Telegram](https://t.me/imclaude_ai) · [GitHub](https://github.com/cons0leweb)
+**[NyaHack](https://github.com/cons0leweb/NyaHack)**
+Linux memory analysis utility · `C++17` · `Dear ImGui`
+
+**[MeowCube](https://meowcube.space/?ref=github)**
+Web interface for working with AI models.
+
+**[AlcoHole](https://github.com/cons0leweb/AlcoHole)**
+Configurable Paper/Spigot plugin.
+
+</details>
+
+<br>
+
+<div align="center">
+
+```text
+[ build ] → [ break ] → [ understand ] → [ rebuild ]
+```
+
+<sub>works on my machine™</sub>
+
+</div>
