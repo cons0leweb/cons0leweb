@@ -6,7 +6,7 @@
 
 `linux enjoyer` · `terminal dweller` · `building weird useful shit`
 
-[me.kikoai.dev](https://me.kikoai.dev) ·
+[ooo.otmivdeneg.dev](https://ooo.otmivdeneg.dev) ·
 [telegram](https://t.me/imclaude_ai) ·
 [repositories](https://github.com/cons0leweb?tab=repositories)
 
